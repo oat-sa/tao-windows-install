@@ -50,7 +50,7 @@ Name: "{userdesktop}\Stop_TAO"; Filename: "{app}\stop_TAO.exe"; Tasks: desktopic
 
 [code]
 //----------------------------------------------
-// Launch browser with LimeSurvey back-end url
+// Launch browser with TAO back-end url
 //----------------------------------------------
 procedure StartBrowser;
 var
