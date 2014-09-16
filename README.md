@@ -7,7 +7,7 @@ http://www.jrsoftware.org/isdl.php#stable
 
 Steps
 ----
-  *Change BasePath 
-  *Extract TAO Build Package in BasePath
-  *Change TaoFolder
-  *Run and compile
+  * Change BasePath 
+  * Extract TAO Build Package in BasePath
+  * Change TaoFolder
+  * Run and compile
