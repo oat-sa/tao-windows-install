@@ -10,4 +10,5 @@ Steps
   * Change BasePath 
   * Extract TAO Build Package in BasePath
   * Change TaoFolder
+  * Move oat in TaoFolder
   * Run and compile
